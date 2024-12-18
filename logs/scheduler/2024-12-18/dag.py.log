@@ -1,0 +1,657 @@
+[2024-12-18T09:53:45.717+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:53:45.718+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:53:45.720+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:53:45.719+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:53:45.814+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:53:45.842+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:53:45.842+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:53:45.875+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:53:45.874+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T09:53:45.892+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.180 seconds
+[2024-12-18T09:54:16.534+0000] {processor.py:186} INFO - Started process (PID=128) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:54:16.539+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:54:16.541+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:54:16.541+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:54:16.629+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:54:16.645+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:54:16.645+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:54:16.668+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:54:16.668+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T09:54:16.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.156 seconds
+[2024-12-18T09:54:47.282+0000] {processor.py:186} INFO - Started process (PID=192) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:54:47.283+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:54:47.286+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:54:47.285+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:54:47.370+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:54:47.387+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:54:47.387+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:54:47.409+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:54:47.409+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T09:54:47.426+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.154 seconds
+[2024-12-18T09:55:18.337+0000] {processor.py:186} INFO - Started process (PID=256) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:55:18.343+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:55:18.345+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:55:18.345+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:55:18.430+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:55:18.447+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:55:18.447+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:55:18.470+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:55:18.470+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T09:55:18.485+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.157 seconds
+[2024-12-18T09:55:48.569+0000] {processor.py:186} INFO - Started process (PID=325) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:55:48.570+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:55:48.572+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:55:48.572+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:55:48.668+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:55:48.687+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:55:48.686+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:55:48.714+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:55:48.714+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:55:48.735+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.172 seconds
+[2024-12-18T09:56:18.838+0000] {processor.py:186} INFO - Started process (PID=389) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:56:18.839+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:56:18.842+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:56:18.841+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:56:18.949+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:56:18.971+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:56:18.971+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:56:18.999+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:56:18.999+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:56:19.018+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.187 seconds
+[2024-12-18T09:56:49.097+0000] {processor.py:186} INFO - Started process (PID=468) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:56:49.098+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:56:49.100+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:56:49.100+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:56:49.187+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:56:49.204+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:56:49.204+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:56:49.230+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:56:49.229+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:56:49.250+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.159 seconds
+[2024-12-18T09:57:19.556+0000] {processor.py:186} INFO - Started process (PID=535) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:57:19.562+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:57:19.565+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:57:19.565+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:57:19.656+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:57:19.675+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:57:19.675+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:57:19.701+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:57:19.701+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:57:19.719+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.172 seconds
+[2024-12-18T09:57:49.875+0000] {processor.py:186} INFO - Started process (PID=599) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:57:49.881+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:57:49.883+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:57:49.883+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:57:49.974+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:57:49.993+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:57:49.992+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:57:50.018+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:57:50.018+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:57:50.035+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.168 seconds
+[2024-12-18T09:58:20.169+0000] {processor.py:186} INFO - Started process (PID=663) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:58:20.170+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:58:20.173+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:58:20.173+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:58:20.268+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:58:20.287+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:58:20.287+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:58:20.313+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:58:20.313+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:58:20.330+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.169 seconds
+[2024-12-18T09:58:50.908+0000] {processor.py:186} INFO - Started process (PID=727) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:58:50.913+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:58:50.916+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:58:50.915+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:58:51.022+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:58:51.039+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:58:51.039+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:58:51.065+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:58:51.064+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:58:51.087+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.184 seconds
+[2024-12-18T09:59:21.374+0000] {processor.py:186} INFO - Started process (PID=791) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:59:21.379+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:59:21.382+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:59:21.382+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:59:21.468+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:59:21.484+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:59:21.484+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:59:21.507+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:59:21.507+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:59:21.522+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.158 seconds
+[2024-12-18T09:59:51.786+0000] {processor.py:186} INFO - Started process (PID=855) to work on /opt/airflow/dags/dag.py
+[2024-12-18T09:59:51.787+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T09:59:51.789+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:59:51.789+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T09:59:51.878+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T09:59:51.900+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:59:51.899+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T09:59:51.937+0000] {logging_mixin.py:190} INFO - [2024-12-18T09:59:51.936+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 09:00:00+00:00, run_after=2024-12-18 10:00:00+00:00
+[2024-12-18T09:59:51.959+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.178 seconds
+[2024-12-18T10:00:22.452+0000] {processor.py:186} INFO - Started process (PID=919) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:00:22.454+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:00:22.457+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:22.457+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:00:22.552+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:00:22.571+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:22.570+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:00:22.597+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:22.597+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 10:00:00+00:00, run_after=2024-12-18 11:00:00+00:00
+[2024-12-18T10:00:22.614+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.172 seconds
+[2024-12-18T10:00:52.872+0000] {processor.py:186} INFO - Started process (PID=983) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:00:52.873+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:00:52.876+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:52.875+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:00:52.963+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:00:53.070+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:53.070+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:00:53.084+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:53.083+0000] {dag.py:3262} INFO - Creating ORM DAG for etl_mongodb
+[2024-12-18T10:00:53.094+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:00:53.094+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T10:00:53.108+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.246 seconds
+[2024-12-18T10:05:20.340+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:05:20.341+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:05:20.345+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:05:20.343+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:05:20.508+0000] {logging_mixin.py:190} INFO - Number of documents in 'students' collection: 10000
+[2024-12-18T10:05:20.564+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:05:20.562+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 59, in <module>
+    etl()
+  File "/opt/airflow/dags/process.py", line 54, in etl
+    client_clickhouse.insert('airflow.students', student_data)  # Use the 'students' table in the 'airflow' database
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/clickhouse_connect/driver/client.py", line 628, in insert
+    context.data = data
+    ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/clickhouse_connect/driver/insert.py", line 96, in data
+    self.block_row_count = self._calc_block_size()
+                           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/clickhouse_connect/driver/insert.py", line 118, in _calc_block_size
+    d_size = d_type.data_size(sample)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/clickhouse_connect/datatypes/base.py", line 106, in data_size
+    d_size = self._data_size(sample)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/clickhouse_connect/datatypes/string.py", line 30, in _data_size
+    total += len(x)
+             ^^^^^^
+TypeError: object of type 'int' has no len()
+[2024-12-18T10:05:20.565+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:05:20.585+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.257 seconds
+[2024-12-18T10:05:51.170+0000] {processor.py:186} INFO - Started process (PID=131) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:05:51.171+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:05:51.174+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:05:51.173+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:06:21.177+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:06:21.176+0000] {timeout.py:68} ERROR - Process timed out, PID: 131
+[2024-12-18T10:06:21.188+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:06:21.178+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 59, in <module>
+    etl()
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 131
+[2024-12-18T10:06:21.192+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:06:21.244+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.081 seconds
+[2024-12-18T10:06:51.593+0000] {processor.py:186} INFO - Started process (PID=260) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:06:51.593+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:06:51.595+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:06:51.595+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:07:21.598+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:07:21.597+0000] {timeout.py:68} ERROR - Process timed out, PID: 260
+[2024-12-18T10:07:21.610+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:07:21.599+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 60, in <module>
+    etl()
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 260
+[2024-12-18T10:07:21.613+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:07:21.669+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.082 seconds
+[2024-12-18T10:07:52.149+0000] {processor.py:186} INFO - Started process (PID=389) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:07:52.151+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:07:52.152+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:07:52.152+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:08:22.154+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:08:22.154+0000] {timeout.py:68} ERROR - Process timed out, PID: 389
+[2024-12-18T10:08:22.158+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:08:22.155+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 60, in <module>
+    etl()
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 389
+[2024-12-18T10:08:22.159+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:08:22.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.034 seconds
+[2024-12-18T10:08:52.363+0000] {processor.py:186} INFO - Started process (PID=518) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:08:52.364+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:08:52.365+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:08:52.364+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:09:22.368+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:09:22.367+0000] {timeout.py:68} ERROR - Process timed out, PID: 518
+[2024-12-18T10:09:22.381+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:09:22.369+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 60, in <module>
+    etl()
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 518
+[2024-12-18T10:09:22.384+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:09:22.441+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.090 seconds
+[2024-12-18T10:09:52.891+0000] {processor.py:186} INFO - Started process (PID=646) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:09:52.892+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:09:52.894+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:09:52.894+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:10:22.899+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:10:22.898+0000] {timeout.py:68} ERROR - Process timed out, PID: 646
+[2024-12-18T10:10:22.911+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:10:22.900+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 61, in <module>
+    etl()
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 646
+[2024-12-18T10:10:22.914+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:10:22.963+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.093 seconds
+[2024-12-18T10:10:53.379+0000] {processor.py:186} INFO - Started process (PID=775) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:10:53.380+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:10:53.382+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:10:53.382+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:11:23.384+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:11:23.384+0000] {timeout.py:68} ERROR - Process timed out, PID: 775
+[2024-12-18T10:11:23.387+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:11:23.384+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 61, in <module>
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 775
+[2024-12-18T10:11:23.388+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:11:23.403+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.032 seconds
+[2024-12-18T10:11:53.680+0000] {processor.py:186} INFO - Started process (PID=904) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:11:53.681+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:11:53.683+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:11:53.683+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:12:23.686+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:12:23.686+0000] {timeout.py:68} ERROR - Process timed out, PID: 904
+[2024-12-18T10:12:23.688+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:12:23.686+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/dag.py", line 4, in <module>
+    from process import etl
+  File "/opt/airflow/dags/process.py", line 60, in <module>
+  File "/opt/airflow/dags/process.py", line 21, in etl
+    document_count = students_collection.count_documents({})
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2134, in count_documents
+    return self._retryable_non_cursor_read(_cmd, session, _Op.COUNT)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/collection.py", line 2148, in _retryable_non_cursor_read
+    return client._retryable_read(func, self._read_preference_for(s), s, operation)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1863, in _retryable_read
+    return self._retry_internal(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/_csot.py", line 119, in csot_wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1830, in _retry_internal
+    ).run()
+      ^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2554, in run
+    return self._read() if self._is_read else self._write()
+           ^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2689, in _read
+    self._server = self._get_server()
+                   ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 2645, in _get_server
+    return self._client._select_server(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1649, in _select_server
+    server = topology.select_server(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 398, in select_server
+    server = self._select_server(
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 376, in _select_server
+    servers = self.select_servers(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 283, in select_servers
+    server_descriptions = self._select_servers_loop(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/pymongo/synchronous/topology.py", line 357, in _select_servers_loop
+    self._condition.wait(common.MIN_HEARTBEAT_INTERVAL)
+  File "/usr/local/lib/python3.12/threading.py", line 359, in wait
+    gotit = waiter.acquire(True, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/utils/timeout.py", line 69, in handle_timeout
+    raise AirflowTaskTimeout(self.error_message)
+airflow.exceptions.AirflowTaskTimeout: DagBag import timeout for /opt/airflow/dags/dag.py after 30.0s.
+Please take a look at these docs to improve your DAG import time:
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#top-level-python-code
+* https://airflow.apache.org/docs/apache-airflow/2.10.4/best-practices.html#reducing-dag-complexity, PID: 904
+[2024-12-18T10:12:23.689+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:12:23.703+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 30.033 seconds
+[2024-12-18T10:12:53.814+0000] {processor.py:186} INFO - Started process (PID=1033) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:12:53.815+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:12:53.816+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:12:53.815+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:12:53.905+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:12:54.011+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:12:54.011+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:12:54.033+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:12:54.032+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T10:12:54.052+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.248 seconds
+[2024-12-18T10:13:24.697+0000] {processor.py:186} INFO - Started process (PID=1096) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:13:24.698+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:13:24.700+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:13:24.699+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:13:24.802+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:13:24.819+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:13:24.819+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:13:24.842+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:13:24.842+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T10:13:24.858+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.169 seconds
+[2024-12-18T10:13:54.988+0000] {processor.py:186} INFO - Started process (PID=1160) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:13:54.989+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:13:54.991+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:13:54.990+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:13:55.078+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:13:55.095+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:13:55.094+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:13:55.117+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:13:55.117+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T10:13:55.132+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.158 seconds
+[2024-12-18T10:15:22.633+0000] {processor.py:186} INFO - Started process (PID=64) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:15:22.633+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:15:22.636+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:15:22.635+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:15:22.747+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:15:22.776+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:15:22.776+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:15:22.809+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:15:22.809+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T10:15:22.830+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.202 seconds
+[2024-12-18T10:15:53.802+0000] {processor.py:186} INFO - Started process (PID=128) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:15:53.803+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:15:53.805+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:15:53.805+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:15:53.883+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:15:53.900+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:15:53.899+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:15:53.923+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:15:53.922+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 00:00:00+00:00, run_after=2024-12-18 01:00:00+00:00
+[2024-12-18T10:15:53.937+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.140 seconds
+[2024-12-18T10:16:24.690+0000] {processor.py:186} INFO - Started process (PID=197) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:16:24.695+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:16:24.697+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:16:24.697+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:16:24.790+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:16:24.811+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:16:24.811+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:16:24.840+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:16:24.840+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 10:00:00+00:00, run_after=2024-12-18 11:00:00+00:00
+[2024-12-18T10:16:24.859+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.178 seconds
+[2024-12-18T10:16:55.005+0000] {processor.py:186} INFO - Started process (PID=262) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:16:55.006+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:16:55.008+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:16:55.008+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:16:55.092+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:16:55.110+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:16:55.109+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:16:55.135+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:16:55.134+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 10:00:00+00:00, run_after=2024-12-18 11:00:00+00:00
+[2024-12-18T10:16:55.151+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.152 seconds
+[2024-12-18T10:17:25.614+0000] {processor.py:186} INFO - Started process (PID=325) to work on /opt/airflow/dags/dag.py
+[2024-12-18T10:17:25.619+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dag.py for tasks to queue
+[2024-12-18T10:17:25.622+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:17:25.622+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dag.py
+[2024-12-18T10:17:25.756+0000] {processor.py:925} INFO - DAG(s) 'etl_mongodb' retrieved from /opt/airflow/dags/dag.py
+[2024-12-18T10:17:25.775+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:17:25.775+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-18T10:17:25.812+0000] {logging_mixin.py:190} INFO - [2024-12-18T10:17:25.811+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_mongodb to 2024-12-18 10:00:00+00:00, run_after=2024-12-18 11:00:00+00:00
+[2024-12-18T10:17:25.832+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dag.py took 0.224 seconds
